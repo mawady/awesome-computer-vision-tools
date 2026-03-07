@@ -216,6 +216,40 @@ Not sure where to begin? Use this table to find the right stack for your situati
 
 ---
 
+
+## Media Quality Formats
+
+> Prefer lossless formats in CV pipelines to preserve full fidelity; avoid lossy formats for training data and annotations.
+
+| Format | Media | Quality | Notes |
+| --- | --- | --- | --- |
+| `JPEG / JPG` | Image | ⚠️ lossy | Most common format; DCT compression introduces blocking artefacts. Avoid for training data and annotations. |
+| `HEIF / HEIC` | Image | ⚠️ lossy | Apple default capture format; lossy by default. |
+| `PNG` | Image | ✅ lossless | Most common lossless choice for CV datasets. Note: strip alpha channel if only RGB is needed. |
+| `WebP` | Image | ✅ lossless (optional lossy) | Smaller than PNG at equivalent quality; good for web-facing pipelines. |
+| `TIFF` | Image | ✅ lossless (optional lossy) | Industry standard for scientific and medical imaging. Supports multi-channel and high bit-depth (16/32-bit). |
+| `BMP` | Image | ✅ lossless | Uncompressed bitmap; large file sizes. Generally superseded by PNG. |
+| `Others (AVIF, PPM/PGM/PBM, SGI, TGA)` | Image | ✅ lossless | AVIF (AV1-based), PPM / PGM / PBM (plain pixel), SGI, TGA (game industry legacy). |
+| `Raw (CR2, NEF, ARW)` | Image | ✅ lossless | Proprietary sensor-level formats. Contain unprocessed Bayer data; require demosaicing before use. |
+| `DICOM` | Image | ✅ lossless | Medical imaging standard. Encodes pixel data alongside patient and acquisition metadata. |
+| `H.264 / AVC` | Video | ⚠️ lossy | Most widely deployed codec. Introduces artefacts; acceptable for preview, not ground truth. |
+| `H.265 / HEVC` | Video | ⚠️ lossy | Successor to H.264; ~50% better compression but same lossy caveats. |
+| `VP9` | Video | ⚠️ lossy | Google's open codec; common on the web. |
+| `AV1` | Video | ⚠️ lossy (near-lossless possible) | Modern open codec; very high quality settings approach lossless. |
+| `FFV1` | Video | ✅ lossless | Open lossless codec by FFmpeg. Best choice for archiving raw video frames. |
+| `HuffYUV / Lagarith` | Video | ✅ lossless | Fast CPU lossless codecs; larger files than FFV1. |
+| `ProRes 4444 / RAW` | Video | ✅ near-lossless | Apple professional codec; ProRes 4444 preserves alpha, ProRes RAW retains sensor data. |
+| `Uncompressed (rawvideo)` | Video | ✅ lossless | Frame-by-frame uncompressed. Largest files; preferred for frame-level dataset extraction. |
+| `JPEG` | Figure | ⚠️ raster | Avoid for figures: artefacts visible around text and sharp edges. |
+| `PNG` | Figure | ⚠️ raster | Best raster choice for figures; lossless, supports transparency, universally supported. |
+| `TIFF` | Figure | ⚠️ raster | High-resolution raster export; large file sizes. |
+| `SVG` | Figure | ✅ vector | Web-native; ideal for web embedding and editing in Inkscape / Illustrator. |
+| `EPS` | Figure | ✅ vector | Legacy PostScript format; still required by some journal submission systems. |
+| `PDF` | Figure | ✅ vector | Best all-round choice for scientific figures. Embeds fonts, renders at any zoom, accepted by most journals and LaTeX. *(recommended)* |
+
+
+---
+
 ## API Tools
 
 > Tools for building, testing, and documenting REST APIs for model endpoints.
