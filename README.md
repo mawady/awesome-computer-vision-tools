@@ -1,7 +1,7 @@
 # Awesome Computer Vision Tools
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-![Last Updated](https://img.shields.io/badge/last%20updated-March%202026-brightgreen)
+![GitHub last commit](https://img.shields.io/github/last-commit/mawady/awesome-computer-vision-tools)
 ![GitHub stars](https://img.shields.io/github/stars/mawady/awesome-computer-vision-tools?style=social)
 [![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-blue.svg)](CONTRIBUTING.md)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
