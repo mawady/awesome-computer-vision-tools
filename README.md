@@ -317,4 +317,4 @@ To add a new tool, open a pull request with:
 
 [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
 
-To the extent possible under law, [Mohamed Wady](https://github.com/mawady) has waived all copyright and related rights to this work.
+To the extent possible under law, [Mohamed Elawady](https://github.com/mawady) has waived all copyright and related rights to this work.
