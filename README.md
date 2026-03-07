@@ -34,6 +34,7 @@ Not sure where to begin? Use this table to find the right stack for your situati
 ## Contents
 
 * [Deep Learning Frameworks](#deep-learning-frameworks)
+* [Annotation Tools](#annotation-tools)
 * [Data Augmentation](#data-augmentation-frameworks)
 * [Experiment Tracking & Management](#experiment-tracking--management)
 * [Workflow Orchestration](#workflow-orchestration)
@@ -68,6 +69,17 @@ Not sure where to begin? Use this table to find the right stack for your situati
 * **Caffe** ![open-source](https://img.shields.io/badge/open--source-brightgreen?style=flat): Early CV-focused framework. [[Website](https://caffe.berkeleyvision.org)] ![discontinued](https://img.shields.io/badge/discontinued-lightgrey?style=flat)
 * **Theano** ![open-source](https://img.shields.io/badge/open--source-brightgreen?style=flat): Pioneer automatic differentiation library. [[Github](https://github.com/Theano/Theano)] ![discontinued](https://img.shields.io/badge/discontinued-lightgrey?style=flat)
 
+---
+## Annotation Tools
+
+> Tools used to label images, videos, and datasets for computer vision training.
+
+* **cvat** ![open-source](https://img.shields.io/badge/open--source-brightgreen?style=flat) [![Stars](https://img.shields.io/github/stars/opencv/cvat?style=flat&label=★)](https://github.com/opencv/cvat): Web-based annotation platform supporting bounding boxes, polygons, segmentation, and video tracking. [[Github](https://github.com/opencv/cvat)]
+* **label-studio** ![open-source](https://img.shields.io/badge/open--source-brightgreen?style=flat) [![Stars](https://img.shields.io/github/stars/HumanSignal/label-studio?style=flat&label=★)](https://github.com/HumanSignal/label-studio): Flexible multi-modal data labeling tool supporting images, audio, video, and text datasets. [[Github](https://github.com/HumanSignal/label-studio)]
+* **labelimg** ![open-source](https://img.shields.io/badge/open--source-brightgreen?style=flat) [![Stars](https://img.shields.io/github/stars/HumanSignal/labelImg?style=flat&label=★)](https://github.com/HumanSignal/labelImg): Simple graphical image annotation tool for bounding boxes supporting Pascal VOC and YOLO formats. [[Github](https://github.com/HumanSignal/labelImg)]
+* **makesense.ai** ![open-source](https://img.shields.io/badge/open--source-brightgreen?style=flat) [![Stars](https://img.shields.io/github/stars/SkalskiP/make-sense?style=flat&label=★)](https://github.com/SkalskiP/make-sense): Browser-based annotation tool supporting object detection and segmentation formats like YOLO, COCO, and VOC. [[Github](https://github.com/SkalskiP/make-sense)]
+* **vott** ![open-source](https://img.shields.io/badge/open--source-brightgreen?style=flat) [![Stars](https://img.shields.io/github/stars/microsoft/VoTT?style=flat&label=★)](https://github.com/microsoft/VoTT): Microsoft's Visual Object Tagging Tool for annotating images and videos for object detection. [[Github](https://github.com/microsoft/VoTT)]
+* **superannotate** ![open-source](https://img.shields.io/badge/open--source-brightgreen?style=flat) [![Stars](https://img.shields.io/github/stars/superannotateai/superannotate-python-sdk?style=flat&label=★)](https://github.com/superannotateai/superannotate-python-sdk): Annotation platform supporting image segmentation, bounding boxes, polygons, and collaborative dataset management. [[Github](https://github.com/superannotateai/superannotate-python-sdk)]
 ---
 
 ## Data Augmentation Frameworks
