@@ -5,7 +5,7 @@ Curated tools for the full CV pipeline — training → inference → deployment
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![GitHub last commit](https://img.shields.io/github/last-commit/mawady/awesome-computer-vision-tools)](https://github.com/mawady/awesome-computer-vision-tools)
-[![GitHub stars](https://img.shields.io/github/stars/mawady/awesome-computer-vision-tools?style=social)](https://github.com/mawady/awesome-computer-vision-tools)
+<!-- [![GitHub stars](https://img.shields.io/github/stars/mawady/awesome-computer-vision-tools?style=social)](https://github.com/mawady/awesome-computer-vision-tools) -->
 [![Contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen)](#contributing)
 [![License: CC BY 4.0](https://img.shields.io/badge/license-CC--BY--4.0-blue)](LICENSE)
 
