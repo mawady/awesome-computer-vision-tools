@@ -35,24 +35,6 @@
 - [Python Environment & Package Managers](#python-environment--package-managers)
 - [Data Formats Reference](#data-formats-reference)
 
-
->
-> * **[Deep Learning Frameworks](#deep-learning-frameworks)**
-> * **[Data Augmentation Frameworks](#data-augmentation-frameworks)**
-> * **[Machine Learning Management and Experimentation](#machine-learning-management-and-experimentation)**
-> * **[Container Management](#container-management)**
-> * **[Cloud Computing Service Providers](#cloud-computing-service-providers)**
-> * **[Cheap GPU Training Providers](#cheap-gpu-training-providers)**
-> * **[Storage](#storage)**
-> * **[API Tools](#api-tools)**
-> * **[Application Development](#application-development)**
-> * **[Web Hosting Platforms](#web-hosting-platforms)**
-> * **[Application Testing](#application-testing)**
-> * **[Continuous Integration (CI) and Continuous Deployment (CD)](#continuous-integration-ci-and-continuous-deployment-cd)**
-> * **[Error Monitoring Tools](#error-monitoring-tools)**
-> * **[Miscellaneous](#miscellaneous)**
->
-
 ---
 
 ## Deep Learning Frameworks
