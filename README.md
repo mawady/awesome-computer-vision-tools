@@ -46,6 +46,7 @@ Not sure where to begin? Use this table to find the right stack for your situati
 * [Cheap GPU Training Providers](#cheap-gpu-training-providers)
 * [Storage](#storage)
 * [Data Serialization Formats](#data-serialization-formats)
+* [Media Quality Formats](#media-quality-formats)
 * [API Tools](#api-tools)
 * [Application Development](#application-development)
 * [Web Hosting Platforms](#web-hosting-platforms)
