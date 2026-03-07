@@ -1,14 +1,13 @@
 # Awesome Computer Vision Tools
 
+Curated tools for the full CV pipeline — training → inference → deployment → MLOps.  
+**Python-first. Production-ready. Actively maintained.**
+
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![GitHub last commit](https://img.shields.io/github/last-commit/mawady/awesome-computer-vision-tools)](https://github.com/mawady/awesome-computer-vision-tools)
 [![GitHub stars](https://img.shields.io/github/stars/mawady/awesome-computer-vision-tools?style=social)](https://github.com/mawady/awesome-computer-vision-tools)
-[![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-blue.svg)](CONTRIBUTING.md)
-[![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
-
-> A curated list of tools covering the full Computer Vision pipeline: from training to inference, deployment, and MLOps.
-
-**Python-first. Production-ready. Actively maintained.**
+[![Contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen)](#contributing)
+[![License: CC BY 4.0](https://img.shields.io/badge/license-CC--BY--4.0-blue)](LICENSE)
 
 ---
 
