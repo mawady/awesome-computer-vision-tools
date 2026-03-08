@@ -53,7 +53,8 @@ Not sure where to begin? Use this table to find the right stack for your situati
 * [Application Testing](#application-testing)
 * [CI/CD](#cicd)
 * [Error Monitoring & Logging](#error-monitoring--logging)
-* [IDEs & Dev Tools](#ides--dev-tools)
+* [IDEs & Code Editors](#ides--code-editors)
+* [Remote Desktop & Access Tools](#remote-desktop--access-tools)
 * [Python Environment & Package Managers](#python-environment--package-managers)
 
 ---
@@ -339,15 +340,25 @@ Not sure where to begin? Use this table to find the right stack for your situati
 
 ---
 
-## IDEs & Dev Tools
+## IDEs & Code Editors
 
-> Editors and remote access tools for CV development.
+> Editors for CV/Python development.
 
 * **VSCode** ![recommended](https://img.shields.io/badge/★-recommended-gold?style=flat) ![free](https://img.shields.io/badge/free-brightgreen?style=flat) [![Stars](https://img.shields.io/github/stars/microsoft/vscode?style=flat&label=★)](https://github.com/microsoft/vscode): Most popular editor for Python/ML with a rich extension ecosystem. [[Website](https://code.visualstudio.com)] | [[Github](https://github.com/microsoft/vscode)]
 * **Zed** ![recommended](https://img.shields.io/badge/★-recommended-gold?style=flat) ![open-source](https://img.shields.io/badge/open--source-brightgreen?style=flat) [![Stars](https://img.shields.io/github/stars/zed-industries/zed?style=flat&label=★)](https://github.com/zed-industries/zed): Fast, modern code editor built in Rust. [[Website](https://zed.dev)] | [[Github](https://github.com/zed-industries/zed)]
 * **PyCharm** ![freemium](https://img.shields.io/badge/freemium-blue?style=flat): Full-featured Python IDE from JetBrains. [[Website](https://www.jetbrains.com/pycharm)]
 * **Eclipse** ![open-source](https://img.shields.io/badge/open--source-brightgreen?style=flat): Extensible open-source IDE with Python support via PyDev plugin. [[Website](https://www.eclipse.org)]
+
+---
+
+## Remote Desktop & Access Tools
+
+> Remote access tools for managing CV development machines.
+
 * **RustDesk** ![recommended](https://img.shields.io/badge/★-recommended-gold?style=flat) ![open-source](https://img.shields.io/badge/open--source-brightgreen?style=flat) [![Stars](https://img.shields.io/github/stars/rustdesk/rustdesk?style=flat&label=★)](https://github.com/rustdesk/rustdesk): Open-source, self-hostable remote desktop. [[Website](https://rustdesk.com)] | [[Github](https://github.com/rustdesk/rustdesk)]
+* **TigerVNC** ![open-source](https://img.shields.io/badge/open--source-brightgreen?style=flat) [![Stars](https://img.shields.io/github/stars/TigerVNC/tigervnc?style=flat&label=★)](https://github.com/TigerVNC/tigervnc): High-performance VNC server and client. [[Github](https://github.com/TigerVNC/tigervnc)]
+* **RealVNC** ![freemium](https://img.shields.io/badge/freemium-blue?style=flat): Reliable VNC-based remote access with cloud and direct connection options. [[Website](https://www.realvnc.com)]
+* **Apache Guacamole** ![open-source](https://img.shields.io/badge/open--source-brightgreen?style=flat) [![Stars](https://img.shields.io/github/stars/apache/guacamole-server?style=flat&label=★)](https://github.com/apache/guacamole-server): Clientless remote desktop gateway accessible via browser, supporting VNC, RDP, and SSH. [[Website](https://guacamole.apache.org)] | [[Github](https://github.com/apache/guacamole-server)]
 * **Chrome Remote Desktop** ![free](https://img.shields.io/badge/free-brightgreen?style=flat): Simple browser-based remote access. [[Website](https://remotedesktop.google.com)]
 * **AnyDesk** ![freemium](https://img.shields.io/badge/freemium-blue?style=flat): Fast remote desktop with low latency. [[Website](https://anydesk.com)]
 * **TeamViewer** ![freemium](https://img.shields.io/badge/freemium-blue?style=flat): Popular cross-platform remote desktop and support tool. [[Website](https://www.teamviewer.com)]
