@@ -48,7 +48,6 @@ Not sure where to begin? Use this table to find the right stack for your situati
 * [Media Quality Formats](#media-quality-formats)
 * [Application Development](#application-development)
 * [Web Hosting Platforms](#web-hosting-platforms)
-* [CI/CD](#cicd)
 * [Error Monitoring & Logging](#error-monitoring--logging)
 * [IDEs & Code Editors](#ides--code-editors)
 * [Remote Desktop & Access Tools](#remote-desktop--access-tools)
@@ -270,17 +269,6 @@ Not sure where to begin? Use this table to find the right stack for your situati
 * **Render** ![freemium](https://img.shields.io/badge/freemium-blue?style=flat): Simple cloud hosting for APIs and web apps. [[Website](https://render.com)]
 * **DigitalOcean App Platform** ![paid](https://img.shields.io/badge/paid-red?style=flat): Managed deployment for containerised apps. [[Website](https://www.digitalocean.com)]
 * **Heroku** ![freemium](https://img.shields.io/badge/freemium-blue?style=flat): Easy PaaS for small deployments. [[Website](https://www.heroku.com)]
-
----
-
-## CI/CD
-
-> Tools for automating testing and deployment pipelines.
-
-* **GitHub Actions** ![recommended](https://img.shields.io/badge/★-recommended-gold?style=flat) ![freemium](https://img.shields.io/badge/freemium-blue?style=flat): Tightly integrated with GitHub; free for public repos. [[Website](https://github.com/features/actions)]
-* **Jenkins** ![open-source](https://img.shields.io/badge/open--source-brightgreen?style=flat) [![Stars](https://img.shields.io/github/stars/jenkinsci/jenkins?style=flat&label=★)](https://github.com/jenkinsci/jenkins): Self-hosted, highly configurable CI/CD server. [[Website](https://www.jenkins.io)] | [[Github](https://github.com/jenkinsci/jenkins)]
-* **CircleCI** ![freemium](https://img.shields.io/badge/freemium-blue?style=flat): Cloud-native CI with strong Docker support. [[Website](https://circleci.com)]
-* **Travis CI** ![freemium](https://img.shields.io/badge/freemium-blue?style=flat): Simple CI for open-source projects. [[Website](https://travis-ci.org)]
 
 ---
 
