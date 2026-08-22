@@ -48,8 +48,6 @@ Not sure where to begin? Use this table to find the right stack for your situati
 * [Media Quality Formats](#media-quality-formats)
 * [Application Development](#application-development)
 * [Web Hosting Platforms](#web-hosting-platforms)
-* [Error Monitoring & Logging](#error-monitoring--logging)
-* [IDEs & Code Editors](#ides--code-editors)
 * [Remote Desktop & Access Tools](#remote-desktop--access-tools)
 * [Python Environment & Package Managers](#python-environment--package-managers)
 
@@ -269,28 +267,6 @@ Not sure where to begin? Use this table to find the right stack for your situati
 * **Render** ![freemium](https://img.shields.io/badge/freemium-blue?style=flat): Simple cloud hosting for APIs and web apps. [[Website](https://render.com)]
 * **DigitalOcean App Platform** ![paid](https://img.shields.io/badge/paid-red?style=flat): Managed deployment for containerised apps. [[Website](https://www.digitalocean.com)]
 * **Heroku** ![freemium](https://img.shields.io/badge/freemium-blue?style=flat): Easy PaaS for small deployments. [[Website](https://www.heroku.com)]
-
----
-
-## Error Monitoring & Logging
-
-> Tools for tracking errors and logs in production CV applications.
-
-* **Sentry** ![recommended](https://img.shields.io/badge/★-recommended-gold?style=flat) ![open-source](https://img.shields.io/badge/open--source-brightgreen?style=flat) ![freemium](https://img.shields.io/badge/freemium-blue?style=flat) [![Stars](https://img.shields.io/github/stars/getsentry/sentry?style=flat&label=★)](https://github.com/getsentry/sentry): Real-time error tracking and performance monitoring. [[Website](https://sentry.io)] | [[Github](https://github.com/getsentry/sentry)]
-* **Loguru** ![recommended](https://img.shields.io/badge/★-recommended-gold?style=flat) ![open-source](https://img.shields.io/badge/open--source-brightgreen?style=flat) [![Stars](https://img.shields.io/github/stars/Delgan/loguru?style=flat&label=★)](https://github.com/Delgan/loguru): Simplified, structured Python logging. [[Github](https://github.com/Delgan/loguru)]
-* **Countly** ![open-source](https://img.shields.io/badge/open--source-brightgreen?style=flat) ![freemium](https://img.shields.io/badge/freemium-blue?style=flat) [![Stars](https://img.shields.io/github/stars/Countly/countly-server?style=flat&label=★)](https://github.com/Countly/countly-server): Open-source product analytics and crash reporting. [[Website](https://countly.com)] | [[Github](https://github.com/Countly/countly-server)]
-* **stackprinter** ![open-source](https://img.shields.io/badge/open--source-brightgreen?style=flat) [![Stars](https://img.shields.io/github/stars/cknd/stackprinter?style=flat&label=★)](https://github.com/cknd/stackprinter): Prints clean, readable Python stack traces. [[Github](https://github.com/cknd/stackprinter)] | [[Github](https://github.com/cknd/stackprinter)]
-
----
-
-## IDEs & Code Editors
-
-> Editors for CV/Python development.
-
-* **VSCode** ![recommended](https://img.shields.io/badge/★-recommended-gold?style=flat) ![free](https://img.shields.io/badge/free-brightgreen?style=flat) [![Stars](https://img.shields.io/github/stars/microsoft/vscode?style=flat&label=★)](https://github.com/microsoft/vscode): Most popular editor for Python/ML with a rich extension ecosystem. [[Website](https://code.visualstudio.com)] | [[Github](https://github.com/microsoft/vscode)]
-* **Zed** ![recommended](https://img.shields.io/badge/★-recommended-gold?style=flat) ![open-source](https://img.shields.io/badge/open--source-brightgreen?style=flat) [![Stars](https://img.shields.io/github/stars/zed-industries/zed?style=flat&label=★)](https://github.com/zed-industries/zed): Fast, modern code editor built in Rust. [[Website](https://zed.dev)] | [[Github](https://github.com/zed-industries/zed)]
-* **PyCharm** ![freemium](https://img.shields.io/badge/freemium-blue?style=flat): Full-featured Python IDE from JetBrains. [[Website](https://www.jetbrains.com/pycharm)]
-* **Eclipse** ![open-source](https://img.shields.io/badge/open--source-brightgreen?style=flat): Extensible open-source IDE with Python support via PyDev plugin. [[Website](https://www.eclipse.org)]
 
 ---
 
