@@ -48,7 +48,6 @@ Not sure where to begin? Use this table to find the right stack for your situati
 * [Media Quality Formats](#media-quality-formats)
 * [Application Development](#application-development)
 * [Web Hosting Platforms](#web-hosting-platforms)
-* [Application Testing](#application-testing)
 * [CI/CD](#cicd)
 * [Error Monitoring & Logging](#error-monitoring--logging)
 * [IDEs & Code Editors](#ides--code-editors)
@@ -271,21 +270,6 @@ Not sure where to begin? Use this table to find the right stack for your situati
 * **Render** ![freemium](https://img.shields.io/badge/freemium-blue?style=flat): Simple cloud hosting for APIs and web apps. [[Website](https://render.com)]
 * **DigitalOcean App Platform** ![paid](https://img.shields.io/badge/paid-red?style=flat): Managed deployment for containerised apps. [[Website](https://www.digitalocean.com)]
 * **Heroku** ![freemium](https://img.shields.io/badge/freemium-blue?style=flat): Easy PaaS for small deployments. [[Website](https://www.heroku.com)]
-
----
-
-## Application Testing
-
-> Tools for testing web, mobile, and desktop CV applications.
-
-
-* **Playwright** ![recommended](https://img.shields.io/badge/★-recommended-gold?style=flat) ![open-source](https://img.shields.io/badge/open--source-brightgreen?style=flat) [![Stars](https://img.shields.io/github/stars/microsoft/playwright?style=flat&label=★)](https://github.com/microsoft/playwright): Reliable end-to-end `web` browser testing from Microsoft. [[Website](https://playwright.dev)] | [[Github](https://github.com/microsoft/playwright)]
-* **Appium** ![open-source](https://img.shields.io/badge/open--source-brightgreen?style=flat) [![Stars](https://img.shields.io/github/stars/appium/appium?style=flat&label=★)](https://github.com/appium/appium): Cross-platform `mobile` | `web` | `desktop` UI automation framework. [[Website](http://appium.io)] | [[Github](https://github.com/appium/appium)]
-* **Lighthouse** ![recommended](https://img.shields.io/badge/★-recommended-gold?style=flat) ![open-source](https://img.shields.io/badge/open--source-brightgreen?style=flat) [![Stars](https://img.shields.io/github/stars/GoogleChrome/lighthouse?style=flat&label=★)](https://github.com/GoogleChrome/lighthouse): Automated `web` | `desktop` auditing for performance and accessibility. [[Chrome Extension](https://chromewebstore.google.com/detail/lighthouse/blipmdconlkpinefehnmjammfjpmpbjk)] | [[Github](https://github.com/GoogleChrome/lighthouse)]
-* **Maestro** ![open-source](https://img.shields.io/badge/open--source-brightgreen?style=flat) [![Stars](https://img.shields.io/github/stars/mobile-dev-inc/Maestro?style=flat&label=★)](https://github.com/mobile-dev-inc/Maestro): Simple `mobile` | `web` UI testing framework. [[Website](https://www.maestro.dev)] | [[Github](https://github.com/mobile-dev-inc/Maestro)]
-* **axe DevTools** ![open-source](https://img.shields.io/badge/open--source-brightgreen?style=flat) [![Stars](https://img.shields.io/github/stars/dequelabs/axe-core?style=flat&label=★)](https://github.com/dequelabs/axe-core): `web` accessibility testing toolkit. [[Chrome Extension](https://chromewebstore.google.com/detail/axe-devtools-web-accessib/lhdoppojpmngadmnindnejefpokejbdd)] | [[Github](https://github.com/dequelabs/axe-core)]
-* **WAVE Evaluation Tool** ![free](https://img.shields.io/badge/free-brightgreen?style=flat): Browser-based `web` accessibility evaluation tool. [[Chrome Extension](https://chromewebstore.google.com/detail/wave-evaluation-tool/jbbplnpkjmmeebjpijfedlgcdilocofh)] | [[Website](https://wave.webaim.org)]
-* **flashlight** ![open-source](https://img.shields.io/badge/open--source-brightgreen?style=flat) [![Stars](https://img.shields.io/github/stars/bamlab/flashlight?style=flat&label=★)](https://github.com/bamlab/flashlight): `mobile` performance auditing tool for mobile apps. [[Website](https://docs.flashlight.dev)] | [[Github](https://github.com/bamlab/flashlight)]
 
 ---
 
