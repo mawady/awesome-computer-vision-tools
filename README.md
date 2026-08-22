@@ -41,7 +41,6 @@ Not sure where to begin? Use this table to find the right stack for your situati
 * [Evaluation & Visualization](#evaluation--visualization)
 * [Inference & Model Serving](#inference--model-serving)
 * [Edge & Embedded Deployment](#edge--embedded-deployment)
-* [Container Management](#container-management)
 * [Cloud Computing Providers](#cloud-computing-providers)
 * [Cheap GPU Training Providers](#cheap-gpu-training-providers)
 * [Data Serialization Formats](#data-serialization-formats)
@@ -155,19 +154,6 @@ Not sure where to begin? Use this table to find the right stack for your situati
 * **TensorFlow Lite (TFLite)** ![open-source](https://img.shields.io/badge/open--source-brightgreen?style=flat): Lightweight TF runtime for mobile and embedded devices. [[Website](https://www.tensorflow.org/lite)]
 * **CoreML** ![free](https://img.shields.io/badge/free-brightgreen?style=flat): Apple's framework for deploying models on iOS/macOS devices. [[Website](https://developer.apple.com/documentation/coreml)]
 * **NCNN** ![open-source](https://img.shields.io/badge/open--source-brightgreen?style=flat) [![Stars](https://img.shields.io/github/stars/Tencent/ncnn?style=flat&label=★)](https://github.com/Tencent/ncnn): Tencent's high-performance inference framework optimised for mobile ARM CPUs. [[Github](https://github.com/Tencent/ncnn)]
-
----
-
-## Container Management
-
-> Tools for packaging and running containerised workloads.
-
-* **Docker** ![recommended](https://img.shields.io/badge/★-recommended-gold?style=flat) ![freemium](https://img.shields.io/badge/freemium-blue?style=flat): The standard for containerising ML training and inference environments. [[Website](https://www.docker.com)]
-* **Kubernetes** ![recommended](https://img.shields.io/badge/★-recommended-gold?style=flat) ![open-source](https://img.shields.io/badge/open--source-brightgreen?style=flat) [![Stars](https://img.shields.io/github/stars/kubernetes/kubernetes?style=flat&label=★)](https://github.com/kubernetes/kubernetes): Container orchestration for scaling and managing inference services. [[Website](https://kubernetes.io)] | [[Github](https://github.com/kubernetes/kubernetes)]
-* **Podman** ![open-source](https://img.shields.io/badge/open--source-brightgreen?style=flat) [![Stars](https://img.shields.io/github/stars/containers/podman?style=flat&label=★)](https://github.com/containers/podman): Daemonless, rootless Docker-compatible container engine. [[Github](https://github.com/containers/podman)] 
-* **Buildah** ![open-source](https://img.shields.io/badge/open--source-brightgreen?style=flat) [![Stars](https://img.shields.io/github/stars/containers/buildah?style=flat&label=★)](https://github.com/containers/buildah): Tool for building OCI container images without a daemon. Often paired with Podman. [[Github](https://github.com/containers/buildah)] 
-* **Incus** ![open-source](https://img.shields.io/badge/open--source-brightgreen?style=flat) [![Stars](https://img.shields.io/github/stars/lxc/incus?style=flat&label=★)](https://github.com/lxc/incus): Lightweight Linux container and VM manager. [[Github](https://github.com/lxc/incus)] 
-* **container** ![open-source](https://img.shields.io/badge/open--source-brightgreen?style=flat) [![Stars](https://img.shields.io/github/stars/apple/container?style=flat&label=★)](https://github.com/apple/container): Apple's lightweight container runtime for macOS. [[Github](https://github.com/apple/container)]
 
 ---
 
