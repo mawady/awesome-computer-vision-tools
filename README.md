@@ -44,10 +44,8 @@ Not sure where to begin? Use this table to find the right stack for your situati
 * [Container Management](#container-management)
 * [Cloud Computing Providers](#cloud-computing-providers)
 * [Cheap GPU Training Providers](#cheap-gpu-training-providers)
-* [Storage](#storage)
 * [Data Serialization Formats](#data-serialization-formats)
 * [Media Quality Formats](#media-quality-formats)
-* [API Tools](#api-tools)
 * [Application Development](#application-development)
 * [Web Hosting Platforms](#web-hosting-platforms)
 * [Application Testing](#application-testing)
@@ -199,20 +197,6 @@ Not sure where to begin? Use this table to find the right stack for your situati
 
 ---
 
-## Storage
-
-> Databases and storage systems commonly used in CV pipelines.
-
-* **PostgreSQL** ![recommended](https://img.shields.io/badge/★-recommended-gold?style=flat) ![open-source](https://img.shields.io/badge/open--source-brightgreen?style=flat) `SQL`: Robust relational database for metadata, annotations, and job queues. [[Website](https://www.postgresql.org)]
-* **MongoDB** ![recommended](https://img.shields.io/badge/★-recommended-gold?style=flat) ![open-source](https://img.shields.io/badge/open--source-brightgreen?style=flat) ![freemium](https://img.shields.io/badge/freemium-blue?style=flat) `NoSQL`: Document store well-suited for variable-length annotation data. [[Website](https://www.mongodb.com)]
-* **Redis** ![recommended](https://img.shields.io/badge/★-recommended-gold?style=flat) ![open-source](https://img.shields.io/badge/open--source-brightgreen?style=flat) ![freemium](https://img.shields.io/badge/freemium-blue?style=flat) `In-Memory`: Fast in-memory store for caching predictions, feature vectors, and job queues. [[Website](https://redis.io)]
-* **Kafka** ![open-source](https://img.shields.io/badge/open--source-brightgreen?style=flat) `Streaming`: Distributed event stream platform for real-time video frame pipelines. [[Website](https://kafka.apache.org)]
-* **MySQL** ![open-source](https://img.shields.io/badge/open--source-brightgreen?style=flat) ![freemium](https://img.shields.io/badge/freemium-blue?style=flat) `SQL`: Widely used relational database for transactional metadata. [[Website](https://www.mysql.com)]
-* **Cassandra** ![open-source](https://img.shields.io/badge/open--source-brightgreen?style=flat) `NoSQL`: Distributed NoSQL database for high-write, high-availability use cases. [[Website](https://cassandra.apache.org)]
-* **Memcached** ![open-source](https://img.shields.io/badge/open--source-brightgreen?style=flat) `In-Memory`: Simple, high-performance distributed memory caching. [[Website](https://memcached.org)]
-
----
-
 ## Data Serialization Formats
 
 > Common file formats and their purpose in CV data pipelines, with supporting libraries.
@@ -262,19 +246,6 @@ Not sure where to begin? Use this table to find the right stack for your situati
 | `SVG` | Figure | ✅ vector | Web-native; ideal for web embedding and editing in Inkscape / Illustrator. |
 | `EPS` | Figure | ✅ vector | Legacy PostScript format; still required by some journal submission systems. |
 | `PDF` | Figure | ✅ vector | Best all-round choice for scientific figures. Embeds fonts, renders at any zoom, accepted by most journals and LaTeX. *(recommended)* |
-
-
----
-
-## API Tools
-
-> Tools for building, testing, and documenting REST APIs for model endpoints.
-
-* **Postman** ![recommended](https://img.shields.io/badge/★-recommended-gold?style=flat) ![freemium](https://img.shields.io/badge/freemium-blue?style=flat): Full-featured API development environment with test suites and mocking. [[Website](https://www.postman.com)]
-* **Bruno** ![recommended](https://img.shields.io/badge/★-recommended_for_teams-gold?style=flat) ![open-source](https://img.shields.io/badge/open--source-brightgreen?style=flat) [![Stars](https://img.shields.io/github/stars/usebruno/bruno?style=flat&label=★)](https://github.com/usebruno/bruno): Open-source, Git-friendly API client that stores collections as plain files. [[Github](https://github.com/usebruno/bruno)]
-* **Hoppscotch** ![open-source](https://img.shields.io/badge/open--source-brightgreen?style=flat) [![Stars](https://img.shields.io/github/stars/hoppscotch/hoppscotch?style=flat&label=★)](https://github.com/hoppscotch/hoppscotch): Lightweight, open-source Postman alternative that runs in the browser. [[Github](https://github.com/hoppscotch/hoppscotch)] 
-* **Insomnia** ![open-source](https://img.shields.io/badge/open--source-brightgreen?style=flat) ![freemium](https://img.shields.io/badge/freemium-blue?style=flat) [![Stars](https://img.shields.io/github/stars/Kong/insomnia?style=flat&label=★)](https://github.com/Kong/insomnia): Clean REST and GraphQL client with environment variable support. [[Github](https://github.com/Kong/insomnia)]
-* **Testfully** ![freemium](https://img.shields.io/badge/freemium-blue?style=flat): Automated API testing with scheduling and monitoring. [[Website](https://testfully.io)]
 
 ---
 
