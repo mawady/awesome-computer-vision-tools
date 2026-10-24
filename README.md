@@ -264,7 +264,7 @@ Not sure where to begin? Use this table to find the right stack for your situati
 * **TigerVNC** ![open-source](https://img.shields.io/badge/open--source-brightgreen?style=flat) [![Stars](https://img.shields.io/github/stars/TigerVNC/tigervnc?style=flat&label=★)](https://github.com/TigerVNC/tigervnc): High-performance VNC server and client. [[Github](https://github.com/TigerVNC/tigervnc)]
 * **RealVNC** ![freemium](https://img.shields.io/badge/freemium-blue?style=flat): Reliable VNC-based remote access with cloud and direct connection options. [[Website](https://www.realvnc.com)]
 * **Apache Guacamole** ![open-source](https://img.shields.io/badge/open--source-brightgreen?style=flat) [![Stars](https://img.shields.io/github/stars/apache/guacamole-server?style=flat&label=★)](https://github.com/apache/guacamole-server): Clientless remote desktop gateway accessible via browser, supporting VNC, RDP, and SSH. [[Website](https://guacamole.apache.org)] | [[Github](https://github.com/apache/guacamole-server)]
-* **Chrome Remote Desktop** ![free](https://img.shields.io/badge/free-brightgreen?style=flat): Simple browser-based remote access. [[Website](https://remotedesktop.google.com)]
+* **Chrome Remote Desktop** ![free](https://img.shields.io/badge/free-orange?style=flat): Simple browser-based remote access. [[Website](https://remotedesktop.google.com)]
 * **AnyDesk** ![freemium](https://img.shields.io/badge/freemium-blue?style=flat): Fast remote desktop with low latency. [[Website](https://anydesk.com)]
 * **TeamViewer** ![freemium](https://img.shields.io/badge/freemium-blue?style=flat): Popular cross-platform remote desktop and support tool. [[Website](https://www.teamviewer.com)]
 
