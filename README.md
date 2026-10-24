@@ -47,7 +47,6 @@ Not sure where to begin? Use this table to find the right stack for your situati
 * [Media Quality Formats](#media-quality-formats)
 * [Application Development](#application-development)
 * [Web Hosting Platforms](#web-hosting-platforms)
-* [Remote Desktop & Access Tools](#remote-desktop--access-tools)
 * [Python Environment & Package Managers](#python-environment--package-managers)
 
 ---
@@ -253,20 +252,6 @@ Not sure where to begin? Use this table to find the right stack for your situati
 * **Render** ![freemium](https://img.shields.io/badge/freemium-blue?style=flat): Simple cloud hosting for APIs and web apps. [[Website](https://render.com)]
 * **DigitalOcean App Platform** ![paid](https://img.shields.io/badge/paid-red?style=flat): Managed deployment for containerised apps. [[Website](https://www.digitalocean.com)]
 * **Heroku** ![freemium](https://img.shields.io/badge/freemium-blue?style=flat): Easy PaaS for small deployments. [[Website](https://www.heroku.com)]
-
----
-
-## Remote Desktop & Access Tools
-
-> Remote access tools for managing CV development machines.
-
-* **RustDesk** ![recommended](https://img.shields.io/badge/★-recommended-gold?style=flat) ![open-source](https://img.shields.io/badge/open--source-brightgreen?style=flat) [![Stars](https://img.shields.io/github/stars/rustdesk/rustdesk?style=flat&label=★)](https://github.com/rustdesk/rustdesk): Open-source, self-hostable remote desktop. [[Website](https://rustdesk.com)] | [[Github](https://github.com/rustdesk/rustdesk)]
-* **TigerVNC** ![open-source](https://img.shields.io/badge/open--source-brightgreen?style=flat) [![Stars](https://img.shields.io/github/stars/TigerVNC/tigervnc?style=flat&label=★)](https://github.com/TigerVNC/tigervnc): High-performance VNC server and client. [[Github](https://github.com/TigerVNC/tigervnc)]
-* **RealVNC** ![freemium](https://img.shields.io/badge/freemium-blue?style=flat): Reliable VNC-based remote access with cloud and direct connection options. [[Website](https://www.realvnc.com)]
-* **Apache Guacamole** ![open-source](https://img.shields.io/badge/open--source-brightgreen?style=flat) [![Stars](https://img.shields.io/github/stars/apache/guacamole-server?style=flat&label=★)](https://github.com/apache/guacamole-server): Clientless remote desktop gateway accessible via browser, supporting VNC, RDP, and SSH. [[Website](https://guacamole.apache.org)] | [[Github](https://github.com/apache/guacamole-server)]
-* **Chrome Remote Desktop** ![free](https://img.shields.io/badge/free-orange?style=flat): Simple browser-based remote access. [[Website](https://remotedesktop.google.com)]
-* **AnyDesk** ![freemium](https://img.shields.io/badge/freemium-blue?style=flat): Fast remote desktop with low latency. [[Website](https://anydesk.com)]
-* **TeamViewer** ![freemium](https://img.shields.io/badge/freemium-blue?style=flat): Popular cross-platform remote desktop and support tool. [[Website](https://www.teamviewer.com)]
 
 ---
 
